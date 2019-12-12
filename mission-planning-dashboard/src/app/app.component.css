@@ -1,0 +1,9 @@
+.box {
+    display: flex;
+    padding: 10px;
+ }
+
+ .dashboard {
+     background: skyblue;
+     color: darkslateblue;
+ }
